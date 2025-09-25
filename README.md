@@ -1,7 +1,7 @@
 # Hi there, I'm starssxhfdmh 👋
 
 🚀 **Programmer in the making** and building my own programming language, [fyn-lang](https://github.com/starssxhfdmh/fyn-lang).  
-🎯 My goal is to create my own **programming language**.  
+🎯 My goal is to create my own **programming language**. 
 
 ## 🔧 Technologies & Tools
 - 🦀 Rust
