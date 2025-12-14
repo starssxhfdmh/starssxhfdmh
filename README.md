@@ -1,19 +1,13 @@
 # Hi there, I'm starssxhfdmh 👋
 
-🚀 **Programmer in the making** and building my own programming language, [fyn-lang](https://github.com/starssxhfdmh/fyn-lang).  
+🚀 **Programmer in the making** and building my own programming language, [fyn-lang](https://github.com/starssxhfdmh/sald).  
 🎯 My goal is to create my own **programming language**. 
 
 ## 🔧 Technologies & Tools
 - 🦀 Rust
-- ⚙️ C/C++
 
 ## 📌 Projects
-- [**fyn-lang**](https://github.com/starssxhfdmh/fyn) - My experimental programming language, written in C++.
-
-
-## 🌱 Currently Learning
-- Interpreter design (lexer, parser, interpreter, bytecode)
-
+- [**sald**](https://github.com/starssxhfdmh/sald) - My experimental programming language, written in Rust.
 
 ## 📊 GitHub Stats
 
@@ -27,7 +21,7 @@
 
 
 ## 📫 Connect with Me
-- 💬 Ask me about: C++, or making programming languages
+- 💬 Ask me about: Rust, or making programming languages
 - 📧 Email: starssxproject@gmail.com
 
 ⭐️ From [starssxhfdmh](https://github.com/starssxhfdmh)
