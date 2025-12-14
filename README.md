@@ -1,6 +1,6 @@
 # Hi there, I'm starssxhfdmh 👋
 
-🚀 **Programmer in the making** and building my own programming language, [fyn-lang](https://github.com/starssxhfdmh/sald).  
+🚀 **Programmer in the making** and building my own programming language, [sald](https://github.com/starssxhfdmh/sald).  
 🎯 My goal is to create my own **programming language**. 
 
 ## 🔧 Technologies & Tools
