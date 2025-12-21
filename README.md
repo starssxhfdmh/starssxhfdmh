@@ -1,27 +1,40 @@
-# Hi there, I'm starssxhfdmh 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi,+I'm+stars.;Building+Sald+Language.;Rust+Developer." alt="Typing SVG" />
+</h1>
 
-🚀 **Programmer in the making** and building my own programming language, [sald](https://github.com/starssxhfdmh/sald).  
-🎯 My goal is to create my own **programming language**. 
+<p align="center">
+  <b>System Engineer & Language Designer</b>
+</p>
 
-## 🔧 Technologies & Tools
-- 🦀 Rust
-
-## 📌 Projects
-- [**sald**](https://github.com/starssxhfdmh/sald) - My experimental programming language, written in Rust.
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starssxhfdmh&show_icons=true&theme=onedark&hide_border=true&bg_color=00000000&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starssxhfdmh&layout=compact&theme=onedark&hide_border=true&bg_color=00000000)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=starssxhfdmh&theme=onedark&hide_border=true&background=00000000)
+| 🏗️ Current Focus | 🔧 Main Stack |
+| :---: | :---: |
+| Developing **[Sald](https://github.com/starssxhfdmh/sald)** <br> <sub>A modern dynamic programming language</sub> | **Rust** <br> <sub>Systems Programming</sub> |
 
 </div>
 
+<br>
 
-## 📫 Connect with Me
-- 💬 Ask me about: Rust, or making programming languages
-- 📧 Email: starssxproject@gmail.com
+### 🚀 Projects
 
-⭐️ From [starssxhfdmh](https://github.com/starssxhfdmh)
+**[Sald](https://github.com/starssxhfdmh/sald)**
+> An experimental, modern dynamic programming language written in Rust.
+
+- 📦 **Package Manager**: [saladpm](https://saladpm.vercel.app)
+- 🎮 **Online Playground**: [sald-playground](https://starssxhfdmh.github.io/sald-playground)
+- 📚 **Documentation**: [sald-docs](https://starssxhfdmh.github.io/sald-docs/)
+
+---
+
+### 📫 Connect
+
+- **Email**: [starssxproject@gmail.com](mailto:starssxproject@gmail.com)
+- **Discussion**: [GitHub Discussions](https://github.com/starssxhfdmh/sald/discussions)
+
+<br>
+<div align="center">
+<sub>Thinking mostly in Rust.</sub>
+</div>
